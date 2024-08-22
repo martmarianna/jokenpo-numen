@@ -1,4 +1,4 @@
-#Marianna Martins de Oliveira, 122.847.137-18, mariannamrtns@gmail.com
+
 #Escolhi a linguagem Ruby porque é a que venho estudando continuamente desde que comecei a transição de carreira, há 6 meses.  
 #Quando fui salvar com a extensão .rb o arquivo não foi aceito pra fazer o upload, então subi .txt , mas é .rb 
 
